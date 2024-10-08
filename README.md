@@ -1,5 +1,5 @@
 # Hi there 👋, I am Ajay Kumar
-#### I am Working as an Assitant System Engineer at Tata Consultancy Services. 2022 Undergraduate with problem-solving skills and ability to perform well in a team. Did B.Tech in Computer science engineering from MPEC Kanpur.
+#### I am Working as a System Engineer at Tata Consultancy Services. 2022 Undergraduate with problem-solving skills and ability to perform well in a team. Did B.Tech in Computer science engineering from MPEC Kanpur.
 
 ### Language
 
